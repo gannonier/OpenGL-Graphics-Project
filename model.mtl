@@ -1,0 +1,8 @@
+# exported by https://3dviewer.net
+newmtl blinn1
+Kd 1 1 1
+d 1
+Ka 0 0 0
+Ks 0.5019607843137255 0.5019607843137255 0.5019607843137255
+Ns 63.11790938168235
+map_Kd file17.png
