@@ -2,23 +2,28 @@
 Graphics project featuring water simulation, lighting, shadows, textures, and bump mapping. All programmed exclusively with Java, OpenGL, and GLSL
 
 <img width="1169" height="623" alt="image" src="https://github.com/user-attachments/assets/b6f30383-e751-405b-bc56-e27add72ae78" />
-1. a list of features:
+
+1. A list of features:
 - Normal/Bump Mapping: Used for both the table and the ground.
 - Environment mapping: used for the bowl
 - Fog and Blending/Transparency: Fog effect on scene, transparency on pitcher.
 - Simulated water with reflection/refraction/fresnel effect: Water inside fountain.
-2. a list of user controls:
-Camera controls:
-● WASD: move forward/backward, left and right.
-● Q/E: move up and down
-● Arrow keys: yaw and pitch
-● Spacebar: remove axis and yellow sphere
+
+2. A list of user controls:
+
+Camera Controls:
+- WASD: move forward/backward, left and right.
+- Q/E: move up and down
+- Arrow keys: yaw and pitch
+- Spacebar: remove axis and yellow sphere
+
 Lighting controls:
-● 1-2: left/right
-● 3-4: up/down
-● 5-6: forward/backward
-● L: turn on/off light
-3. a list of assets with citation and permission/licensing information about those sources:
+- 1-2: left/right
+- 3-4: up/down
+- 5-6: forward/backward
+- L: turn on/off light
+
+3. A list of assets with citation and permission/licensing information about those sources:
 - Picnic Table: "Picnic Table" (link: https://skfb.ly/oHwzn) by minhnguyenle0712 is licensed
 under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 - CubeMap: https://ambientcg.com/view?id=DayEnvironmentHDRI004
